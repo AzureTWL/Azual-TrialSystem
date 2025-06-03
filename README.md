@@ -1,11 +1,9 @@
-# Trial Discord Bot
 
-A Discord bot designed to manage structured debates and trials with features including:
-
-- Debate management with Side A/B teams
-- Truth bullet system
-- Role-based speaking permissions
-- Voting system
+A Discord bot designed to manage structured debates and trials based on a spesfic visual novel made by chunsoft.
+Features:
+- Scrum Debate
+- Truth bullets
+- Voting system (Unfinished, Keeping it that way)
 - Intermission controls
 
 ## Setup
@@ -25,7 +23,7 @@ DISCORD_TOKEN=your_token_here
 ## Commands
 
 ### Debate Management
-- `!scrumdebate` - Start a new debate
+- `!scrumdebate` - Queue a Scrum Debate
 - `!startscrum` - Begin the debate
 - `!swap` - Switch speaking permissions between sides
 - `!endscrum` - End the debate and start voting
