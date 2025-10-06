@@ -3,7 +3,7 @@ A Discord bot designed to manage structured debates and trials based on a spesfi
 Features:
 - Scrum Debate
 - Truth bullets
-- Voting system (Unfinished, Keeping it that way)
+- Voting system 
 - Intermission controls
 
 ## Setup
